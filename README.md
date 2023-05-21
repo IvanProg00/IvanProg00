@@ -2,6 +2,8 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=IvanProg00&show_icons=true&theme=radical)
 
+[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=IvanProg00&theme=light)](https://leetcode.com/IvanProg00/)
+
 ## Things I code with
 
 ### Languages
